@@ -1,2 +1,2 @@
 # Social-Media-Website
-Hosted on https://transcendent-jalebi-96a1d9.netlify.app/
+Hosted on https://653bba6cb19f403d6cd084d9--jade-sherbet-20afe2.netlify.app/
